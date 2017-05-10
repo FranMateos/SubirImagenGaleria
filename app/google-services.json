@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "272612427020",
+    "firebase_url": "https://subirimagengaleria.firebaseio.com",
+    "project_id": "subirimagengaleria",
+    "storage_bucket": "subirimagengaleria.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272612427020:android:de04fc878c503ecf",
+        "android_client_info": {
+          "package_name": "com.example.personal.subirimagengaleria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272612427020-588eog2398fciusat6it62c1tsintn2e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.personal.subirimagengaleria",
+            "certificate_hash": "6ca5ef98edda8a24b097f3c34d186b648411c5ca"
+          }
+        },
+        {
+          "client_id": "272612427020-vgu8ti2nbjj3o4j9ftl136ijvnufclml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoQ1tu6kT9LU962Ku3WXRqKLd036-Rfdw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272612427020-vgu8ti2nbjj3o4j9ftl136ijvnufclml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
